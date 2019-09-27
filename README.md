@@ -1,3 +1,3 @@
 # coursera-capstoneProjects
 
-This repository will server the master repo for all the Coursera Capstone Projects
+This repository will serve as the master repo for all the Coursera Capstone Projects
